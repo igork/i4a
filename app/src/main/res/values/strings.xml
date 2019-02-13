@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">i4a</string>
+    <string name="greetings">Welcome !</string>
+    <string name="java_name">hello_from_java</string>
+    <string name="cpp_response">hello from c++</string>
+    <string name="api_name">requestor ip</string>
+    <string name="cpp_name">call c++</string>
+</resources>
